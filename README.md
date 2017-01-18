@@ -1,2 +1,2 @@
-# exercise-repo
+exercise-repo
 Repo made for exercise.
